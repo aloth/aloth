@@ -1,6 +1,4 @@
-#### Hi, I'm [Alexander Loth](https://alexloth.com/) 👋
-
-I'm @aloth – an AI enthusiast, Python developer, and hackathon lover!
+#### Hi, I'm [Alexander Loth](https://alexloth.com/) – an AI enthusiast, Python developer, and hackathon geek! 👋
 
 - 🔭 I’m currently working on **[JudgeGPT](https://github.com/aloth/JudgeGPT)** and **[RogueGPT](https://github.com/aloth/RogueGPT)**, AI-driven projects aimed at detecting and understanding fake news.
 - 🌱 I’m passionate about data & AI and have been working in the field since my master’s thesis at CERN.
