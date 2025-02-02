@@ -1,13 +1,13 @@
 #### Hi, I'm [Alexander Loth](https://alexloth.com/) – an AI enthusiast, Python developer, and hackathon geek! 👋
 
-- 🔭 I’m currently working on **[JudgeGPT](https://github.com/aloth/JudgeGPT)** and **[RogueGPT](https://github.com/aloth/RogueGPT)**, AI-driven projects aimed at detecting and understanding fake news.
-- 🌱 I’m passionate about data & AI and have been working in the field since my master’s thesis at CERN.
-- 👯 I’m looking to collaborate on AI projects that make a real-world impact, particularly in the realms of social good and ethical AI.
-- 💬 Ask me about **AI**, **AI ethics**, **NLP**, or how to get involved in hackathons.
-- 🌍 Fun fact: My journey in tech has taken me from **Geneva** to **Frankfurt**, with stints in **Shanghai**, **Bangalore**, and **Redmond**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/aloth)** | **[Blog](https://alexloth.com/)**
+- 🔭 **Current Projects:** Working on **[JudgeGPT](https://github.com/aloth/JudgeGPT)** and **[RogueGPT](https://github.com/aloth/RogueGPT)**, AI-driven projects aimed at detecting and understanding fake news.
+- 🌱 **Background:** Passionate about AI & data science since my master’s thesis at CERN. Now shaping AI’s impact at Microsoft.
+- 👯 **Let’s Collaborate:** Always open to AI projects that drive **social good, ethical AI, and real-world impact**.
+- 💬 **Ask Me About:** AI, AI ethics, NLP, or how to get the most out of hackathons.
+- 🌍 **Global Experience:** My tech journey spans **Geneva, Frankfurt, Shanghai, Bangalore, and Redmond**.
+- 📫 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/aloth) | [X](https://x.com/xlth) | [Blog](https://alexloth.com/)
 
-Thanks for stopping by, and let’s create something amazing together!
+Let’s build something amazing together! 🚀
 
 <!--
 **aloth/aloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
