@@ -7,6 +7,11 @@
 - 🌍 **Global Experience:** My tech journey spans **Geneva, Frankfurt, Shanghai, Bangalore, and Redmond**.
 - 📫 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/aloth) | [X](https://x.com/xlth) | [Blog](https://alexloth.com/)
 
+**Book Resources:**
+
+* **English Books:** [Decisively Digital](https://github.com/aloth/decisively-digital-book-resources), [Teach Yourself VISUALLY Power BI](https://github.com/aloth/power-bi-book-resources), [Visual Analytics with Tableau](https://github.com/aloth/tableau-book-resources)
+* **German Books:** [KI für Content Creation](https://github.com/aloth/KI-Buch-Begleitmaterialien), [Datenvisualisierung mit Power BI](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien), [Datenvisualisierung mit Tableau](https://github.com/aloth/Tableau-Buch-Begleitmaterialien)
+
 Let’s build something amazing together! 🚀
 
 <!--
