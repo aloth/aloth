@@ -6,7 +6,7 @@ Passionate about leveraging **Artificial Intelligence** for real-world impact, d
 
 - 🔭 **Currently Building & Exploring:**  
   - **[JudgeGPT](https://github.com/aloth/JudgeGPT) & [RogueGPT](https://github.com/aloth/RogueGPT)**: AI-driven projects investigating fake news detection and the capabilities of LLMs. 🤖📰
-  - **[Mindful Coffee](https://github.com/aloth/mindful-coffee)**: An iOS app (SwiftUI, SwiftData, HealthKit) helping users track caffeine intake, understand its effects, and optimize sleep quality. ☕💤
+  - **[Mindful Coffee](https://github.com/aloth/mindful-coffee)**: A smart iOS app (SwiftUI, SwiftData, HealthKit) helping users track caffeine intake, understand its effects using **on-device machine learning**, and optimize sleep quality. ☕💤
   - Exploring advancements in **NLP, AI Ethics, and Generative AI**.
 - 🌱 **Background:** Passionate about AI & data science since my master’s thesis at CERN. Now shaping AI’s impact at Microsoft.  
 - 👯 **Let’s Collaborate:** Always open to AI projects that drive **social good, ethical AI, and real-world impact**.  
