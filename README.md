@@ -17,7 +17,7 @@ Focused on Applied AI and information integrity. My work explores the intersecti
 | :--- | :--- | :--- |
 | **[First Responder App](https://github.com/aloth/first-responder-pwa)** | An AI-powered web app providing real-time collaboration and guidance for emergency teams. | `React` `Azure AI` `PWA` |
 | **[Mindful Coffee](https://github.com/aloth/mindful-coffee)** | An iOS app optimizing caffeine timing based on chronobiology and HealthKit data. | `SwiftUI` `SwiftData` `HealthKit` |
-| **[Trackless Links](https://github.com/aloth/trackless-links)** | A lightweight iOS utility to automatically sanitize URLs by removing tracking parameters. | `JavaScript` `WebExtensions` |
+| **[Trackless Links](https://github.com/aloth/trackless-links)** | A lightweight utility for iOS and Mac to automatically sanitize URLs by removing tracking parameters. | `JavaScript` `WebExtensions` |
 
 ---
 
