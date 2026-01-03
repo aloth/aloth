@@ -17,10 +17,10 @@ I build tools that strengthen information integrity - from cryptographic image v
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Origin Lens](https://github.com/aloth/origin-lens)** | Combat fake news by verifying image authenticity with C2PA Content Credentials, AI detection, and EXIF analysis. | `Flutter` `C2PA` `Cryptography` |
+| **[Origin Lens](https://github.com/aloth/origin-lens)** | Combat fake news by verifying image authenticity with C2PA Content Credentials, AI detection, and EXIF analysis. Open source. | `Flutter` `C2PA` `Cryptography` |
 | **[Trackless Links](https://github.com/aloth/trackless-links)** | A lightweight utility for iOS and Mac to automatically sanitize URLs by removing tracking parameters. | `JavaScript` `WebExtensions` |
 | **[Mindful Coffee](https://github.com/aloth/mindful-coffee)** | An iOS app optimizing caffeine timing based on chronobiology and HealthKit data. | `SwiftUI` `SwiftData` `HealthKit` |
-| **[First Responder App](https://github.com/aloth/first-responder-pwa)** | An AI-powered web app providing real-time collaboration and guidance for emergency teams. | `React` `Azure AI` `PWA` |
+| **[First Responder App](https://github.com/aloth/first-responder-pwa)** | An open source AI-powered web app providing real-time collaboration and guidance for emergency teams. | `React` `Azure AI` `PWA` |
 
 ---
 
