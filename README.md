@@ -8,7 +8,7 @@ I build tools that strengthen information integrity - from cryptographic image v
 
 ### 🔬 Featured Research: AI & Information Integrity
 
-* **Publication:** [**Blessing or curse? A survey on the Impact of Generative AI on Fake News**](https://arxiv.org/abs/2404.03021) - *arXiv, April 2024.*
+* **Publication:** [**Industrialized Deception: The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems**](https://arxiv.org/abs/2601.21963) - *ACM Web Conference 2026 (WWW '26), to appear.*
 * **Research Tooling:** [**JudgeGPT**](https://github.com/aloth/JudgeGPT) & [**RogueGPT**](https://github.com/aloth/RogueGPT): A research apparatus for investigating AI-driven misinformation. `RogueGPT` serves as a controlled stimulus generation engine, while `JudgeGPT` is the empirical platform for collecting human evaluation data.
 
 ---
