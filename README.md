@@ -18,6 +18,7 @@ I build tools that strengthen information integrity - from cryptographic image v
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Origin Lens](https://github.com/aloth/origin-lens)** | Combat fake news by verifying image authenticity with C2PA Content Credentials, AI detection, and EXIF analysis. Open source. | `Flutter` `C2PA` `Cryptography` |
+| **[olcli](https://github.com/aloth/olcli)** | Overleaf CLI — sync and manage LaTeX projects from the command line. See also [overleaf-skill](https://github.com/aloth/overleaf-skill) for AI agent integration. | `TypeScript` `Node.js` `CLI` |
 | **[Trackless Links](https://github.com/aloth/trackless-links)** | A lightweight utility for iOS and Mac to automatically sanitize URLs by removing tracking parameters. | `JavaScript` `WebExtensions` |
 | **[Mindful Coffee](https://github.com/aloth/mindful-coffee)** | An iOS app optimizing caffeine timing based on chronobiology and HealthKit data. | `SwiftUI` `SwiftData` `HealthKit` |
 | **[First Responder App](https://github.com/aloth/first-responder-pwa)** | An open source AI-powered web app providing real-time collaboration and guidance for emergency teams. | `React` `Azure AI` `PWA` |
