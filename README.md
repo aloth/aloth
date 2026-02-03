@@ -8,8 +8,11 @@ I build tools that strengthen information integrity - from cryptographic image v
 
 ### 🔬 Featured Research: AI & Information Integrity
 
-* **Publication:** [**Industrialized Deception: The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems**](https://arxiv.org/abs/2601.21963) - *ACM Web Conference 2026 (WWW '26), to appear.*
-* **Research Tooling:** [**JudgeGPT**](https://github.com/aloth/JudgeGPT) & [**RogueGPT**](https://github.com/aloth/RogueGPT): A research apparatus for investigating AI-driven misinformation. `RogueGPT` serves as a controlled stimulus generation engine, while `JudgeGPT` is the empirical platform for collecting human evaluation data.
+* **Recent Publications:**
+  * [**Industrialized Deception: The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems**](https://arxiv.org/abs/2601.21963) - *ACM Web Conference 2026 (WWW '26), to appear.*
+  * [**Eroding the Truth-Default: A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wilds**](https://arxiv.org/abs/2601.22871) - *ACM Web Conference 2026 (WWW '26), to appear.*
+  * [**The Verification Crisis: Expert Perceptions of GenAI Disinformation and the Case for Reproducible Provenance**](https://arxiv.org/abs/2602.02100) - *ACM Web Conference 2026 (WWW '26), to appear.*
+ * **Research Tooling:** [**JudgeGPT**](https://github.com/aloth/JudgeGPT) & [**RogueGPT**](https://github.com/aloth/RogueGPT): A research apparatus for investigating AI-driven misinformation. `RogueGPT` serves as a controlled stimulus generation engine, while `JudgeGPT` is the empirical platform for collecting human evaluation data.
 
 ---
 
@@ -38,4 +41,4 @@ I have authored and co-authored several books on data and AI, aimed at making co
 
 My professional journey has taken me through Geneva, Frankfurt, Shanghai, Bangalore, and Redmond. I am always open to collaborating on projects related to **AI ethics, applied health tech (especially chronobiology), and social good initiatives.**
 
-<a href="https://alexloth.com/"><img src="https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square" alt="Website"/></a> <a href="https://www.linkedin.com/in/aloth"><img src="https://img.shields.io/badge/LinkedIn-Alexander%20Loth-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a> <a href="https://x.com/xlth"><img src="https://img.shields.io/badge/X_(Twitter)-@xlth-blue?style=flat-square&logo=x" alt="X Profile"/></a>
+<a href="https://alexloth.com/"><img src="https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square" alt="Website"/></a> <a href="https://www.linkedin.com/in/aloth"><img src="https://img.shields.io/badge/LinkedIn-Alexander%20Loth-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a> <a href="https://x.com/xlth"><img src="https://img.shields.io/badge/X_(Twitter)-@xlth-blue?style=flat-square&logo=x" alt="X Profile"/></a> [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9327--6865-green?logo=orcid)](https://orcid.org/0009-0003-9327-6865)
