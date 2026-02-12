@@ -8,11 +8,12 @@ I build tools that strengthen information integrity - from cryptographic image v
 
 ### 🔬 Featured Research: AI & Information Integrity
 
-* **Recent Publications:**
-  * [**Industrialized Deception: The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems**](https://arxiv.org/abs/2601.21963) - *ACM Web Conference 2026 (WWW '26), to appear.*
-  * [**Eroding the Truth-Default: A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wilds**](https://arxiv.org/abs/2601.22871) - *ACM Web Conference 2026 (WWW '26), to appear.*
-  * [**The Verification Crisis: Expert Perceptions of GenAI Disinformation and the Case for Reproducible Provenance**](https://arxiv.org/abs/2602.02100) - *ACM Web Conference 2026 (WWW '26), to appear.*
- * **Research Tooling:** [**JudgeGPT**](https://github.com/aloth/JudgeGPT) & [**RogueGPT**](https://github.com/aloth/RogueGPT): A research apparatus for investigating AI-driven misinformation. `RogueGPT` serves as a controlled stimulus generation engine, while `JudgeGPT` is the empirical platform for collecting human evaluation data.
+| Publication | Project | Venue |
+| :--- | :--- | :--- |
+| [**Industrialized Deception:** The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems](https://arxiv.org/abs/2601.21963) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WWW '26 |
+| [**Eroding the Truth-Default:** A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wilds](https://arxiv.org/abs/2601.22871) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WWW '26 |
+| [**The Verification Crisis:** Expert Perceptions of GenAI Disinformation and the Case for Reproducible Provenance](https://arxiv.org/abs/2602.02100) | [verification-crisis](https://github.com/aloth/verification-crisis) | WWW '26 |
+| [**Origin Lens:** A Privacy-First Mobile Framework for Cryptographic Image Provenance and AI Detection](https://arxiv.org/abs/2602.03423) | [Origin Lens](https://github.com/aloth/origin-lens) | arXiv |
 
 ---
 
@@ -20,7 +21,6 @@ I build tools that strengthen information integrity - from cryptographic image v
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Origin Lens](https://github.com/aloth/origin-lens)** | Combat fake news by verifying image authenticity with C2PA Content Credentials, AI detection, and EXIF analysis. Open source. | `Flutter` `C2PA` `Cryptography` |
 | **[olcli](https://github.com/aloth/olcli)** | Overleaf CLI — sync and manage LaTeX projects from the command line. See also [overleaf-skill](https://github.com/aloth/overleaf-skill) for AI agent integration. | `TypeScript` `Node.js` `CLI` |
 | **[Trackless Links](https://github.com/aloth/trackless-links)** | A lightweight utility for iOS and Mac to automatically sanitize URLs by removing tracking parameters. | `JavaScript` `WebExtensions` |
 | **[Mindful Coffee](https://github.com/aloth/mindful-coffee)** | An iOS app optimizing caffeine timing based on chronobiology and HealthKit data. | `SwiftUI` `SwiftData` `HealthKit` |
