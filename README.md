@@ -13,7 +13,7 @@ I build tools that strengthen information integrity - from cryptographic image v
 | [**Industrialized Deception:** The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems](https://arxiv.org/abs/2601.21963) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WWW '26 |
 | [**Eroding the Truth-Default:** A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wilds](https://arxiv.org/abs/2601.22871) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WWW '26 |
 | [**The Verification Crisis:** Expert Perceptions of GenAI Disinformation and the Case for Reproducible Provenance](https://arxiv.org/abs/2602.02100) | [verification-crisis](https://github.com/aloth/verification-crisis) | WWW '26 |
-| [**Origin Lens:** A Privacy-First Mobile Framework for Cryptographic Image Provenance and AI Detection](https://arxiv.org/abs/2602.03423) | [Origin Lens](https://github.com/aloth/origin-lens) | arXiv |
+| [**Origin Lens:** A Privacy-First Mobile Framework for Cryptographic Image Provenance and AI Detection](https://arxiv.org/abs/2602.03423) | [Origin Lens](https://github.com/aloth/origin-lens) | WWW '26 |
 
 ---
 
