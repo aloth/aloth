@@ -1,5 +1,4 @@
 ### Hi there, I'm Alexander Loth! 👋
-[![Mastodon](https://img.shields.io/badge/Mastodon-@xlth-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@xlth)
 
 
 **Applied AI researcher and author combating misinformation through technology.**
@@ -43,4 +42,4 @@ I have authored and co-authored several books on data and AI, aimed at making co
 
 My professional journey has taken me through Geneva, Frankfurt, Shanghai, Bangalore, and Redmond. I am always open to collaborating on projects related to **AI ethics, applied health tech (especially chronobiology), and social good initiatives.**
 
-<a href="https://alexloth.com/"><img src="https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square" alt="Website"/></a> <a href="https://www.linkedin.com/in/aloth"><img src="https://img.shields.io/badge/LinkedIn-Alexander%20Loth-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a> <a href="https://x.com/xlth"><img src="https://img.shields.io/badge/X_(Twitter)-@xlth-blue?style=flat-square&logo=x" alt="X Profile"/></a> [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9327--6865-green?logo=orcid)](https://orcid.org/0009-0003-9327-6865)
+<a href="https://alexloth.com/"><img src="https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square" alt="Website"/></a> <a href="https://www.linkedin.com/in/aloth"><img src="https://img.shields.io/badge/LinkedIn-Alexander%20Loth-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a> <a href="https://x.com/xlth"><img src="https://img.shields.io/badge/X_(Twitter)-@xlth-blue?style=flat-square&logo=x" alt="X Profile"/></a> <a href="https://mastodon.social/@xlth"><img src="https://img.shields.io/badge/Mastodon-@xlth-6364FF?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon"/></a> [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9327--6865-green?logo=orcid)](https://orcid.org/0009-0003-9327-6865)
