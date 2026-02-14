@@ -1,4 +1,6 @@
 ### Hi there, I'm Alexander Loth! 👋
+[![Mastodon](https://img.shields.io/badge/Mastodon-@xlth-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@xlth)
+
 
 **Applied AI researcher and author combating misinformation through technology.**
 
