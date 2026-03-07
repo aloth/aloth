@@ -26,6 +26,7 @@ I build tools that strengthen information integrity - from cryptographic image v
 | **[Trackless Links](https://github.com/aloth/trackless-links)** | A lightweight utility for iOS and Mac to automatically sanitize URLs by removing tracking parameters. | `JavaScript` `WebExtensions` |
 | **[Mindful Coffee](https://github.com/aloth/mindful-coffee)** | An iOS app optimizing caffeine timing based on chronobiology and HealthKit data. | `SwiftUI` `SwiftData` `HealthKit` |
 | **[CRED-1](https://github.com/aloth/cred-1)** | An open, peer-reviewed domain credibility dataset with 2,672 domains and five independent trust signals. Powers the credibility feature in Trackless Links. | `Python` `CC BY 4.0` `Zenodo` |
+| **[PowerSkills](https://github.com/aloth/PowerSkills)** | Windows automation toolkit for AI agents - Outlook, Edge browser, desktop, and system operations as structured JSON skills. | `PowerShell` `COM` `CDP` `Win32` |
 | **[First Responder App](https://github.com/aloth/first-responder-pwa)** | An open source AI-powered web app providing real-time collaboration and guidance for emergency teams. | `React` `Azure AI` `PWA` |
 
 ---
