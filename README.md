@@ -3,7 +3,7 @@
 
 **Applied AI researcher and author combating misinformation through technology.**
 
-I build tools that strengthen information integrity - from cryptographic image verification to AI-driven fake news detection. My work sits at the intersection of Generative AI, Human-Computer Interaction, and ethical systems, informed by a data science background from CERN and experience across Geneva, Frankfurt, Shanghai, Bangalore, and Redmond.
+I build tools that strengthen information integrity - from cryptographic image verification to AI-driven fake news detection. My work sits at the intersection of Generative AI, Human-Computer Interaction, and ethical systems, informed by a data science background from CERN.
 
 ---
 
@@ -11,10 +11,10 @@ I build tools that strengthen information integrity - from cryptographic image v
 
 | Publication | Project | Venue |
 | :--- | :--- | :--- |
-| [**Industrialized Deception:** The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems](https://arxiv.org/abs/2601.21963) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WWW '26 |
-| [**Eroding the Truth-Default:** A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wilds](https://arxiv.org/abs/2601.22871) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WWW '26 |
-| [**The Verification Crisis:** Expert Perceptions of GenAI Disinformation and the Case for Reproducible Provenance](https://arxiv.org/abs/2602.02100) | [verification-crisis](https://github.com/aloth/verification-crisis) | WWW '26 |
-| [**Origin Lens:** A Privacy-First Mobile Framework for Cryptographic Image Provenance and AI Detection](https://arxiv.org/abs/2602.03423) | [Origin Lens](https://github.com/aloth/origin-lens) | WWW '26 |
+| [**Industrialized Deception:** The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems](https://arxiv.org/abs/2601.21963) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WebConf '26 |
+| [**Eroding the Truth-Default:** A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wilds](https://arxiv.org/abs/2601.22871) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WebConf '26 |
+| [**The Verification Crisis:** Expert Perceptions of GenAI Disinformation and the Case for Reproducible Provenance](https://arxiv.org/abs/2602.02100) | [verification-crisis](https://github.com/aloth/verification-crisis) | WebConf '26 |
+| [**Origin Lens:** A Privacy-First Mobile Framework for Cryptographic Image Provenance and AI Detection](https://arxiv.org/abs/2602.03423) | [Origin Lens](https://github.com/aloth/origin-lens) | WebConf '26 |
 
 ---
 
@@ -22,10 +22,10 @@ I build tools that strengthen information integrity - from cryptographic image v
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[olcli](https://github.com/aloth/olcli)** | Overleaf CLI — sync and manage LaTeX projects from the command line. See also [overleaf-skill](https://github.com/aloth/overleaf-skill) for AI agent integration. | `TypeScript` `Node.js` `CLI` |
+| **[olcli](https://github.com/aloth/olcli)** | Overleaf CLI — sync, compile, and manage LaTeX projects from your terminal. Available on [npm](https://www.npmjs.com/package/@aloth/olcli). See also [overleaf-skill](https://github.com/aloth/overleaf-skill) for AI agent integration. | `TypeScript` `Node.js` `CLI` |
 | **[Trackless Links](https://github.com/aloth/trackless-links)** | A lightweight utility for iOS and Mac to automatically sanitize URLs by removing tracking parameters. | `JavaScript` `WebExtensions` |
 | **[Mindful Coffee](https://github.com/aloth/mindful-coffee)** | An iOS app optimizing caffeine timing based on chronobiology and HealthKit data. | `SwiftUI` `SwiftData` `HealthKit` |
-| **[CRED-1](https://github.com/aloth/cred-1)** | An open, peer-reviewed domain credibility dataset with 2,672 domains and five independent trust signals. Powers the credibility feature in Trackless Links. | `Python` `CC BY 4.0` `Zenodo` |
+| **[CRED-1](https://github.com/aloth/cred-1)** | An open, reproducible domain credibility dataset with 2,672 domains and five independent trust signals. Powers the credibility feature in Trackless Links. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18769460.svg)](https://doi.org/10.5281/zenodo.18769460) | `Python` `CC BY 4.0` `Zenodo` |
 | **[PowerSkills](https://github.com/aloth/PowerSkills)** | Windows automation toolkit for AI agents - Outlook, Edge browser, desktop, and system operations as structured JSON skills. | `PowerShell` `COM` `CDP` `Win32` |
 | **[First Responder App](https://github.com/aloth/first-responder-pwa)** | An open source AI-powered web app providing real-time collaboration and guidance for emergency teams. | `React` `Azure AI` `PWA` |
 
