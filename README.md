@@ -1,13 +1,12 @@
 ### Hi there, I'm Alexander Loth! 👋
 
-
 **Applied AI researcher and author combating misinformation through technology.**
 
-I build tools that strengthen information integrity - from cryptographic image verification to AI-driven fake news detection. My work sits at the intersection of Generative AI, Human-Computer Interaction, and ethical systems, informed by a data science background from CERN.
+I build tools that strengthen information integrity - from cryptographic image verification to AI-driven fake news detection. My work sits at the intersection of Generative AI, Agentic AI, Human-Computer Interaction, and ethical systems, informed by a data science background from CERN.
 
 ---
 
-### 🔬 Featured Research: AI & Information Integrity
+### 🔬 Featured Research: Agentic AI & Information Integrity
 
 | Publication | Project | Venue |
 | :--- | :--- | :--- |
@@ -22,7 +21,7 @@ I build tools that strengthen information integrity - from cryptographic image v
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[olcli](https://github.com/aloth/olcli)** | Overleaf CLI — sync, compile, and manage LaTeX projects from your terminal. Available on [npm](https://www.npmjs.com/package/@aloth/olcli). See also [overleaf-skill](https://github.com/aloth/overleaf-skill) for AI agent integration. | `TypeScript` `Node.js` `CLI` |
+| **[olcli](https://github.com/aloth/olcli)** | Overleaf CLI - sync, compile, and manage LaTeX projects from your terminal. Available on [npm](https://www.npmjs.com/package/@aloth/olcli). See also [overleaf-skill](https://github.com/aloth/overleaf-skill) for AI agent integration. | `TypeScript` `Node.js` `CLI` |
 | **[Trackless Links](https://github.com/aloth/trackless-links)** | A lightweight utility for iOS and Mac to automatically sanitize URLs by removing tracking parameters. | `JavaScript` `WebExtensions` |
 | **[Mindful Coffee](https://github.com/aloth/mindful-coffee)** | An iOS app optimizing caffeine timing based on chronobiology and HealthKit data. | `SwiftUI` `SwiftData` `HealthKit` |
 | **[CRED-1](https://github.com/aloth/cred-1)** | An open, reproducible domain credibility dataset with 2,672 domains and five independent trust signals. Powers the credibility feature in Trackless Links. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18769460.svg)](https://doi.org/10.5281/zenodo.18769460) | `Python` `CC BY 4.0` `Zenodo` |
