@@ -8,6 +8,9 @@ I build tools that strengthen information integrity - from cryptographic image v
 
 ### 🔬 Featured Research: Agentic AI & Information Integrity
 
+**Research hub:** [GitHub repo](https://github.com/aloth/agentic-ai-information-integrity) · [landing pages](https://aloth.github.io/agentic-ai-information-integrity/)  
+The umbrella entry point for projects, papers, datasets, and conference materials across this research program.
+
 | Publication | Project | Venue |
 | :--- | :--- | :--- |
 | [**Industrialized Deception:** The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems](https://arxiv.org/abs/2601.21963) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WebConf '26 |
