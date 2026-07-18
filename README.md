@@ -13,10 +13,14 @@ The umbrella entry point for projects, papers, datasets, and conference material
 
 | Publication | Project | Venue |
 | :--- | :--- | :--- |
-| [**Industrialized Deception:** The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems](https://arxiv.org/abs/2601.21963) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WebConf '26 |
-| [**Eroding the Truth-Default:** A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wilds](https://arxiv.org/abs/2601.22871) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WebConf '26 |
-| [**The Verification Crisis:** Expert Perceptions of GenAI Disinformation and the Case for Reproducible Provenance](https://arxiv.org/abs/2602.02100) | [verification-crisis](https://github.com/aloth/verification-crisis) | WebConf '26 |
-| [**Origin Lens:** A Privacy-First Mobile Framework for Cryptographic Image Provenance and AI Detection](https://arxiv.org/abs/2602.03423) | [Origin Lens](https://github.com/aloth/origin-lens) | WebConf '26 |
+| [**Industrialized Deception:** The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems](https://doi.org/10.1145/3774905.3795471) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WWW '26 Companion |
+| [**Eroding the Truth-Default:** A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wild](https://doi.org/10.1145/3774905.3795832) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WWW '26 Companion |
+| [**The Verification Crisis:** Expert Perceptions of GenAI Disinformation and the Case for Reproducible Provenance](https://doi.org/10.1145/3774905.3795484) | [verification-crisis](https://github.com/aloth/verification-crisis) | WWW '26 Companion |
+| [**When Experts Disagree:** Mapping Consensus and Conflict in Expert Assessments of AI-Generated Disinformation](https://github.com/aloth/verification-crisis) | [verification-crisis](https://github.com/aloth/verification-crisis) | AIES '26 |
+| [**Origin Lens:** Reclaiming Trust on the AI-Mediated Web Through On-Device Image Provenance Verification](https://doi.org/10.1145/3795513.3806658) | [Origin Lens](https://github.com/aloth/origin-lens) | WebSci '26 |
+| [**Human Perception of LLM-Generated News**](https://doi.org/10.1145/3795513.3807431) (Can Humans Tell? · Indistinguishability Threshold) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WebSci '26 Companion |
+| [**CRED-1:** An Open Multi-Signal Domain Credibility Dataset for Automated Pre-Bunking of Online Misinformation](https://doi.org/10.2139/ssrn.6448466) | [CRED-1](https://github.com/aloth/cred-1) | SSRN |
+| [**Blessing or Curse?** A Survey on the Impact of Generative AI on Fake News](https://arxiv.org/abs/2404.03021) | [JudgeGPT](https://github.com/aloth/JudgeGPT) | arXiv |
 
 ---
 
