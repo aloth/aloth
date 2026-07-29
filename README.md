@@ -6,6 +6,13 @@ I build tools that strengthen information integrity - from cryptographic image v
 
 ---
 
+### 📄 Journal Publication
+
+[**Experts Disagree on How to Fight AI Disinformation, but Agree That Health and Politics Need Different Solutions**](https://doi.org/10.37016/mr-2020-205)  
+**Harvard Kennedy School Misinformation Review** 7(4), 2026 · [doi:10.37016/mr-2020-205](https://doi.org/10.37016/mr-2020-205) · [open data](https://doi.org/10.7910/DVN/BXO2QA) · [survey instrument](https://github.com/aloth/verification-crisis)
+
+---
+
 ### 🔬 Featured Research: Agentic AI & Information Integrity
 
 **Research hub:** [GitHub repo](https://github.com/aloth/agentic-ai-information-integrity) · [landing pages](https://aloth.github.io/agentic-ai-information-integrity/)  
@@ -13,10 +20,10 @@ The umbrella entry point for projects, papers, datasets, and conference material
 
 | Publication | Project | Venue |
 | :--- | :--- | :--- |
+| [**Experts Disagree on How to Fight AI Disinformation,** but Agree That Health and Politics Need Different Solutions](https://doi.org/10.37016/mr-2020-205) | [verification-crisis](https://github.com/aloth/verification-crisis) | HKS Misinformation Review 7(4) |
 | [**Industrialized Deception:** The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems](https://doi.org/10.1145/3774905.3795471) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WWW '26 Companion |
 | [**Eroding the Truth-Default:** A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wild](https://doi.org/10.1145/3774905.3795832) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WWW '26 Companion |
 | [**The Verification Crisis:** Expert Perceptions of GenAI Disinformation and the Case for Reproducible Provenance](https://doi.org/10.1145/3774905.3795484) | [verification-crisis](https://github.com/aloth/verification-crisis) | WWW '26 Companion |
-| [**When Experts Disagree:** Mapping Consensus and Conflict in Expert Assessments of AI-Generated Disinformation](https://github.com/aloth/verification-crisis) | [verification-crisis](https://github.com/aloth/verification-crisis) | AIES '26 |
 | [**Origin Lens:** Reclaiming Trust on the AI-Mediated Web Through On-Device Image Provenance Verification](https://doi.org/10.1145/3795513.3806658) | [Origin Lens](https://github.com/aloth/origin-lens) | WebSci '26 |
 | [**Human Perception of LLM-Generated News**](https://doi.org/10.1145/3795513.3807431) (Can Humans Tell? · Indistinguishability Threshold) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WebSci '26 Companion |
 | [**CRED-1:** An Open Multi-Signal Domain Credibility Dataset for Automated Pre-Bunking of Online Misinformation](https://doi.org/10.2139/ssrn.6448466) | [CRED-1](https://github.com/aloth/cred-1) | SSRN |
