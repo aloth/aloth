@@ -51,7 +51,7 @@ The umbrella entry point for projects, papers, datasets, and conference material
 I have authored and co-authored several books on data and AI, aimed at making complex topics accessible to a broader audience.
 
 * **[English books](https://github.com/aloth?tab=repositories&q=book-resources):** [Decisively Digital](https://github.com/aloth/decisively-digital-book-resources), [Teach Yourself VISUALLY Power BI](https://github.com/aloth/power-bi-book-resources), [Visual Analytics with Tableau](https://github.com/aloth/tableau-book-resources)
-* **[German books](https://github.com/aloth?tab=repositories&q=Buch-Begleitmaterialien):** [KI für Content Creation](https://github.com/aloth/KI-Buch-Begleitmaterialien), [Microsoft Power BI inkl. Fabric und Copilot](https://github.com/aloth/Power-BI-Fabric-Copilot-Buch-Begleitmaterialien), [Datenvisualisierung mit Tableau](https://github.com/aloth/Tableau-Buch-Begleitmaterialien)
+* **[German books](https://github.com/aloth?tab=repositories&q=Buch-Begleitmaterialien):** [Content Creation mit generativer KI](https://github.com/aloth/Generative-KI-Buch-Begleitmaterialien), [KI für Content Creation](https://github.com/aloth/KI-Buch-Begleitmaterialien), [Microsoft Power BI inkl. Fabric und Copilot](https://github.com/aloth/Power-BI-Fabric-Copilot-Buch-Begleitmaterialien), [Datenvisualisierung mit Power BI](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien), [Datenvisualisierung mit Tableau](https://github.com/aloth/Tableau-Buch-Begleitmaterialien)
 
 ---
 
