@@ -31,18 +31,29 @@ The umbrella entry point for projects, papers, datasets, and conference material
 
 ---
 
-### 🚀 Featured Projects
+### 📱 iOS Apps
+
+Apps for iPhone and iPad, on the App Store.
+
+| App | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Trackless Links](https://github.com/aloth/trackless-links)** · [App Store](https://apps.apple.com/app/id6749830894) | Safari extension for iOS & macOS. Strips tracking parameters, blocks cookie banners, and warns about unreliable sources via [CRED-1](https://github.com/aloth/cred-1) - all on-device, zero data collection. Reviewed in [Mac & i 4/2026](https://www.heise.de/select/mac-and-i/2026/4/2609012234834091131) (heise). Also available as [Trackless Links Pro](https://apps.apple.com/app/id6754613166). | `Swift` `JavaScript` `WebExtensions` |
+| **[Dreamwave Radio](https://github.com/aloth/dreamwave-radio)** · [App Store](https://apps.apple.com/app/id6790789119) | Sleep sound mixer. Layer up to three of 27 stations; most are built as they play, so they never develop the loop point that gives other noise apps away at 3am. Siri, a fading sleep timer, nine languages, no account and no network. | `SwiftUI` `AVAudioEngine` `DSP` |
+| **[Mindful Coffee](https://github.com/aloth/mindful-coffee)** · [App Store](https://apps.apple.com/app/id6742878005) | Caffeine timing against your own cortisol rhythm - when a coffee helps, and when it costs you sleep. HealthKit & iCloud sync. | `SwiftUI` `SwiftData` `HealthKit` |
+| **[Mindful Body](https://github.com/aloth/mindful-body)** · [App Store](https://apps.apple.com/app/id6760477510) | Body composition tracking with progress photos and trend analysis. HealthKit & iCloud sync. | `SwiftUI` `SwiftData` `CloudKit` |
+
+---
+
+### 🚀 Featured Open Source
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[olcli](https://github.com/aloth/olcli)** [![npm](https://img.shields.io/npm/dm/@aloth/olcli)](https://www.npmjs.com/package/@aloth/olcli) [![GitHub stars](https://img.shields.io/github/stars/aloth/olcli)](https://github.com/aloth/olcli) | Overleaf CLI & git remote - pull, push, sync, compile LaTeX projects from terminal or AI agents. MCP server with 14 tools for Claude, Cursor & Windsurf. Available on [npm](https://www.npmjs.com/package/@aloth/olcli). Install as [AgentSkill](https://skills.sh/aloth/olcli/overleaf) ([overleaf-skill](https://github.com/aloth/overleaf-skill)). | `TypeScript` `MCP` `Git` `CLI` |
-| **[CRED-1](https://github.com/aloth/cred-1)** [![npm](https://img.shields.io/npm/dm/@aloth/cred1)](https://www.npmjs.com/package/@aloth/cred1) [![GitHub stars](https://img.shields.io/github/stars/aloth/cred-1)](https://github.com/aloth/cred-1) | Open, reproducible domain credibility dataset for automated pre-bunking of online misinformation. TypeScript library, CLI & MCP server - verify any news source's reliability from terminal, code, or AI agents. 5 MCP tools for Claude Desktop, Cursor & Windsurf. Presented at ACM WebSci 2026, CC BY 4.0 and DOI-citable. Powers [Trackless Links](https://github.com/aloth/trackless-links). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18769460.svg)](https://doi.org/10.5281/zenodo.18769460) | `TypeScript` `MCP` `Library` `CLI` `CC BY 4.0` |
-| **[PowerSkills](https://github.com/aloth/PowerSkills)** | Windows automation for AI agents - Microsoft 365 via Work IQ & Graph (mail, calendar, Teams, SharePoint, OneDrive), Outlook COM, Edge browser (CDP), desktop, and system control. Structured JSON output. | `PowerShell` `Microsoft 365` `Graph API` `CDP` `Win32` |
-| **[Trackless Links](https://github.com/aloth/trackless-links)** [![GitHub stars](https://img.shields.io/github/stars/aloth/trackless-links)](https://github.com/aloth/trackless-links) | Safari extension for iOS & macOS. Strips tracking parameters, blocks cookie banners, and warns about unreliable sources via [CRED-1](https://github.com/aloth/cred-1) - all on-device, zero data collection. Reviewed in [Mac & i 4/2026](https://www.heise.de/select/mac-and-i/2026/4/2609012234834091131) (heise). | `Swift` `JavaScript` `WebExtensions` |
-| **[Mindful Coffee](https://github.com/aloth/mindful-coffee)** · **[Mindful Body](https://github.com/aloth/mindful-body)** | iOS health apps: caffeine timing with cortisol modeling, and body composition tracking with progress photos. Both with HealthKit & iCloud sync. | `SwiftUI` `SwiftData` `HealthKit` `CloudKit` |
-| **[Origin Lens](https://github.com/aloth/origin-lens)** | On-device C2PA & EXIF image provenance verification - check whether an image carries valid provenance signals before you trust it. Open source, no tracking. Presented at WebSci '26. | `Dart` `Flutter` `C2PA` |
 | **[awesome-ai-agents](https://github.com/aloth/awesome-ai-agents)** [![GitHub stars](https://img.shields.io/github/stars/aloth/awesome-ai-agents)](https://github.com/aloth/awesome-ai-agents) | A curated list of AI agent frameworks, tools, platforms, research papers, and resources. | `Awesome List` |
-| **[First Responder App](https://github.com/aloth/first-responder-pwa)** | An open source AI-powered web app providing real-time collaboration and guidance for emergency teams. | `React` `Azure AI` `PWA` |
+| **[PowerSkills](https://github.com/aloth/PowerSkills)** [![GitHub stars](https://img.shields.io/github/stars/aloth/PowerSkills)](https://github.com/aloth/PowerSkills) | Windows automation for AI agents - Microsoft 365 via Work IQ & Graph (mail, calendar, Teams, SharePoint, OneDrive), Outlook COM, Edge browser (CDP), desktop, and system control. Structured JSON output. | `PowerShell` `Microsoft 365` `Graph API` `CDP` `Win32` |
+| **[CRED-1](https://github.com/aloth/cred-1)** [![npm](https://img.shields.io/npm/dm/@aloth/cred1)](https://www.npmjs.com/package/@aloth/cred1) [![GitHub stars](https://img.shields.io/github/stars/aloth/cred-1)](https://github.com/aloth/cred-1) | Open, reproducible domain credibility dataset for automated pre-bunking of online misinformation. TypeScript library, CLI & MCP server - verify any news source's reliability from terminal, code, or AI agents. 5 MCP tools for Claude Desktop, Cursor & Windsurf. Presented at ACM WebSci 2026, CC BY 4.0 and DOI-citable. Powers [Trackless Links](https://github.com/aloth/trackless-links). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18769460.svg)](https://doi.org/10.5281/zenodo.18769460) | `TypeScript` `MCP` `Library` `CLI` `CC BY 4.0` |
+| **[Origin Lens](https://github.com/aloth/origin-lens)** [![GitHub stars](https://img.shields.io/github/stars/aloth/origin-lens)](https://github.com/aloth/origin-lens) | On-device C2PA & EXIF image provenance verification - check whether an image carries valid provenance signals before you trust it. Open source, no tracking. Presented at WebSci '26. | `Dart` `Flutter` `C2PA` |
+| **[First Responder App](https://github.com/aloth/first-responder-pwa)** [![GitHub stars](https://img.shields.io/github/stars/aloth/first-responder-pwa)](https://github.com/aloth/first-responder-pwa) | An open source AI-powered web app providing real-time collaboration and guidance for emergency teams. | `React` `Azure AI` `PWA` |
 
 ---
 
