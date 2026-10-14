@@ -21,6 +21,7 @@ The umbrella entry point for projects, papers, datasets, and conference material
 | Publication | Project | Venue |
 | :--- | :--- | :--- |
 | [**Experts Disagree on How to Fight AI Disinformation,** but Agree That Health and Politics Need Different Solutions](https://doi.org/10.37016/mr-2020-205) | [verification-crisis](https://github.com/aloth/verification-crisis) | HKS Misinformation Review 7(4) |
+| [**The Mitigation Paradox:** How AI-Disinformation Experts Converge on Threats but Polarize on Solutions](https://doi.org/10.1609/aies.v9i3.43261) ([preprint](https://doi.org/10.5281/zenodo.23302284)) | [verification-crisis](https://github.com/aloth/verification-crisis) | AIES 2026 |
 | [**Industrialized Deception:** The Collateral Effects of LLM-Generated Misinformation on Digital Ecosystems](https://doi.org/10.1145/3774905.3795471) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WWW '26 Companion |
 | [**Eroding the Truth-Default:** A Causal Analysis of Human Susceptibility to Foundation Model Hallucinations and Disinformation in the Wild](https://doi.org/10.1145/3774905.3795832) | [JudgeGPT](https://github.com/aloth/JudgeGPT) · [RogueGPT](https://github.com/aloth/RogueGPT) | WWW '26 Companion |
 | [**The Verification Crisis:** Expert Perceptions of GenAI Disinformation and the Case for Reproducible Provenance](https://doi.org/10.1145/3774905.3795484) | [verification-crisis](https://github.com/aloth/verification-crisis) | WWW '26 Companion |
